@@ -1,0 +1,114 @@
+*
+{
+    background-color: #3e1669;
+    text-decoration: none;
+}
+.all
+{
+    margin-left: 400px;
+    margin-top: 150px;
+}
+a
+{
+    color: white;
+    font-weight: 600;
+}
+.login
+{
+    position: relative;
+}
+.fb-tt
+{
+    position: absolute;
+}
+.circle1
+{
+    margin-left:150px;
+    border: 2px solid #7b3364;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    border-radius: 50%;
+}    
+.circle2
+{
+    margin-left: 240px;
+    border: 2px solid hsl(319, 41%, 34%);
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    border-radius: 50%;
+}
+.textfb
+{
+    position: absolute;
+    margin: 30px;
+}
+.texttt
+{
+    position: absolute;
+    margin:30px 365px;
+
+}
+.textbox1
+{
+    margin: 150px 440px 10px;
+    width: 390px;
+    height: 45px;
+    font-size:20px;
+    padding-left: 20px;
+    border-radius: 10px;
+    border: 2px solid #7b3364;
+}
+.textbox2
+{
+    margin: 10px 440px 10px;
+    width: 390px;
+    height: 45px;
+    font-size:20px;
+    padding-left: 20px;
+    border-radius: 10px;
+    border: 2px solid #7b3364;
+}
+.forgot
+{
+    color: #FF6633;
+    margin-left: 560px;
+    font-size: 20px;
+    font-weight: 100;
+}
+.bt1
+{
+    margin-left: 440px;
+    margin-top: 20px;
+    width: 415px;
+    height: 45px;
+    font-size:large;
+    color: white;
+    background-color: #14b266;
+}
+.bt1:hover
+{
+    background-color: #00FF66;
+}
+.line
+{
+    margin-top: 30px;
+    border:#7b3364 solid 1px;
+}
+.bt2
+{
+    margin-left: 440px;
+    margin-top: 20px;
+    width: 415px;
+    height: 45px;
+    font-size:15px;
+    color: black;
+    background-color: #ffce00;
+    font-weight: 100;
+}
+.bt2:hover
+{
+    background-color: #FFFF33;
+}
+
